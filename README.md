@@ -2,3 +2,4 @@
 
 # Pseudorecipes
 Basic HTML/CSS demonstration showcasing "recipes", [hosted on GitHub Pages](https://stelvey.github.io/Pseudorecipes)
+There is also a different version called [LaziestRecipes](https://stelvey.github.io/LaziestRecipes)
